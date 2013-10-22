@@ -153,7 +153,7 @@ There is a simple way to use this Package. Create a new folder named `levare` in
 
 To use a custom module folder location:
 ```
-php artisan config:publish levare/Modules
+php artisan config:publish levare/modules
 ```
 Then in: app/config/packages/levare/config.pphp
 ```
