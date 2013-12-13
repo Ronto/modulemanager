@@ -2,6 +2,8 @@
 
 Modules is a module management for Laravel Version 4.
 
+### This Package is no more under development. I've create a new one with better Features and simpler Syntax. I link here, after finished test!
+
 ----------------
 ## Changelog 1.1.3
 
