@@ -2,6 +2,10 @@
 
 Modules is a module management for Laravel Version 4.
 
+#### You love my work? https://www.gittip.com/abstractFlo/
+
+
+
 ### This Package is no more under development. I've create a new one with better Features and simpler Syntax. I link here, after finished test!
 
 ----------------
